@@ -1,0 +1,7 @@
+package mymodulstrings
+
+import "string"
+
+func change() {
+  return string 
+}
